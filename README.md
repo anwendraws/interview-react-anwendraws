@@ -36,3 +36,23 @@ Please fork this repo and complete the following tasks.
 4. Add Chinese language support. Fix all warnings you run into.
 
 5. [optional]Assuming we are buidling a blog system, where SEO is critical, add the SEO support for the project.
+
+Step 1：Run the Project
+
+      $ npm install
+      $ npm run dev
+
+Step 2: Open a browser and enter the URL "http://localhost:3000/user/[id]", 
+        you can replace '[id]' with 'chenzhenchao' or any other name you like,
+        Then Task 1 & 2 completed.
+
+Step 3: You can see a page that already use chakra UI, 
+        it's very simple and elegant.I will try other styles and make it more like a beautiful blog homepage.
+        Then Task 3 completed and I will continue to the job done better.
+
+Step 4: Just click the MenuButton "Language" and you can switch language from English to Chinese and opposite.
+        Then Task 4 completed.
+
+Step 5: I import Head from 'next/head' in the [id].js. 
+        For the project is a part of blog system, I optimized keywords in Meta.
+        Then Task 5 completed and I know what I done is not enough, I will study docs about Next.js SEO later.
