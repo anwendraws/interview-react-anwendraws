@@ -14,5 +14,6 @@ export const all = {
     'Current date:': "Current date:",
     'Your IP:': "Your IP:",
     'Powered by': "Powered by",
+    'px': "px",
   },
 }

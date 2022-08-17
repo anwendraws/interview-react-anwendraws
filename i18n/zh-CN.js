@@ -14,5 +14,6 @@ export const all = {
     'Current date:': "当前日期：",
     'Your IP:': "你的IP：",
     'Powered by': "技术支持提供方",
+    'px': "像素",
   },
 }
